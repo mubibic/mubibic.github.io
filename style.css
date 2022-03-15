@@ -1,16 +1,6 @@
-/*html {*/
-/*height: 100%;*/
-/*}*/
-/*body {*/
-/*background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));*/
-/*}*/
-
-div {
-    width: 150px;
-    height: 150px;
-    background-color: #fff;
-
-    box-shadow: 120px 80px 40px 20px #0ff;
-    /* in order: x offset, y offset, blur size, spread size, color /
-    / blur size and spread size are optional (they default to 0) */
+html {
+height: 100%;
+}
+body {
+background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
 }
